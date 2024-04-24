@@ -1,0 +1,29 @@
+.inline-block { display:inline-block;
+background-color:grey;
+padding:20px;
+text-align:center;
+width:150px;}
+
+nav {background-color:lightGrey;
+padding:5px;}
+
+.left {float:left;
+width:29%;
+background-color:lightBlue;
+height:750px;}
+
+.right {float:left;
+    width:71%;
+    background-color:lightseaGreen;
+    height:750px;}
+
+    .container1{
+        background-color:lightCoral;
+        padding:75px;
+    }
+
+    
+    .container2{
+        background-color:;
+        padding:75px;
+    }
